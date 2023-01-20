@@ -1,0 +1,43 @@
+.thead {
+  background-color: white;
+}
+.header-p {
+  background-color: white;
+  width: 100%;
+  border-radius: 10px;
+  border: white;
+}
+.footer{
+    background-color: white;
+    width: 100%;
+    height: 6%;
+    position: absolute;
+    bottom: 0;  
+}
+.principal {
+  width: 1350px;
+  align-items: center;
+  height: 655px;
+  background-image: url(./components/fondo.jpg);
+  position: relative;
+  
+}
+.listado {
+  background-image: radial-gradient(
+    circle at 32.47% 62.27%,
+    #fffbde 0,
+    #fff0d9 16.67%,
+    #ffe5d3 33.33%,
+    #f2dacd 50%,
+    #e2cfc6 66.67%,
+    #d3c5c0 83.33%,
+    #c5bcba 100%
+  );
+  width: 1350px;
+  height: 640px;
+  
+}
+.table{
+  position: relative;
+}
+
